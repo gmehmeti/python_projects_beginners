@@ -1,1 +1,1 @@
-# python_projects_beginners
+# Python Projects For Beginners
